@@ -1,7 +1,7 @@
 #!/usr/bin/python3.9
 
-print(str(float('1')))  # ???
-print(str(int('25')))  # ???
-print(str(bool(1)))  # ???
-print(str(bool('')))  # ???
-print(str(bool(0)))  # ???
+print(float('1'))  # ???
+print(int('25'))  # ???
+print(bool(1))  # ???
+print(bool(''))  # ???
+print(bool(0))  # ???

@@ -2,4 +2,4 @@
 
 username = input('Enter your name: ')
 
-print('Hello, ' + str(username) + ', how are you?')
+print(f'Hello, {username}, how are you?')
